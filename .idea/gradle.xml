@@ -5,12 +5,14 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleHome" value="D:\Android Studio\android-studio\gradle\gradle-2.10" />
         <option name="gradleJvm" value="1.7" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/anim" />
+            <option value="$PROJECT_DIR$/city" />
+            <option value="$PROJECT_DIR$/event_dispatch_demo" />
             <option value="$PROJECT_DIR$/ipc_client" />
             <option value="$PROJECT_DIR$/ipc_client_cp" />
             <option value="$PROJECT_DIR$/ipc_server" />
@@ -21,7 +23,9 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/anim" />
+            <option value="$PROJECT_DIR$/city" />
+            <option value="$PROJECT_DIR$/event_dispatch_demo" />
             <option value="$PROJECT_DIR$/ipc_client" />
             <option value="$PROJECT_DIR$/ipc_client_cp" />
             <option value="$PROJECT_DIR$/ipc_server" />

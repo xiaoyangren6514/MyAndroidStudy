@@ -1,1 +1,2 @@
-include ':app', ':service', ':ipc_server', ':ipc_client', ':ipc_server_cp', ':ipc_client_cp'
+include ':service', ':ipc_server', ':ipc_client', ':ipc_server_cp', ':ipc_client_cp', ':event_dispatch_demo', ':anim'
+include ':city'
