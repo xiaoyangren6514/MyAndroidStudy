@@ -46,6 +46,7 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/anim_base_xml"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/anim_base"
@@ -72,6 +73,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="组合动画xml"
+            android:textSize="16sp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/anim_base_xml"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/custom_valueanim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="自定义ValueAnimator"
             android:textSize="16sp"
             />
     </LinearLayout>
