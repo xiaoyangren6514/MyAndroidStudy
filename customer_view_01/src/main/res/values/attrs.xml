@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DountProgress">
+
+        <attr name="dount_center_text_size" format="dimension"/>
+        <attr name="dount_center_text_color" format="color"/>
+        <attr name="dount_center_text_content" format="string"/>
+
+        <attr name="dount_bottom_text_content" format="string"/>
+        <attr name="dount_bottom_text_size" format="dimension"/>
+        <attr name="dount_bottom_text_color" format="color"/>
+
+        <attr name="dount_unfinish_circle_width" format="dimension"/>
+        <attr name="dount_finish_circle_width" format="dimension"/>
+
+        <attr name="dount_unfinish_circle_color" format="color"/>
+        <attr name="dount_finish_circle_color" format="color"/>
+
+        <attr name="dount_max" format="integer"/>
+        <attr name="dount_progress" format="integer"/>
+
+        <attr name="dount_start_defree" format="integer"/>
+
+        <attr name="dount_inner_background_color" format="color"/>
+
+    </declare-styleable>
+</resources>

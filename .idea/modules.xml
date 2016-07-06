@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyAndroidStudy.iml" filepath="$PROJECT_DIR$/MyAndroidStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/anim/anim.iml" filepath="$PROJECT_DIR$/anim/anim.iml" />
       <module fileurl="file://$PROJECT_DIR$/city/city.iml" filepath="$PROJECT_DIR$/city/city.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer_view_01/customer_view_01.iml" filepath="$PROJECT_DIR$/customer_view_01/customer_view_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/event_dispatch_demo/event_dispatch_demo.iml" filepath="$PROJECT_DIR$/event_dispatch_demo/event_dispatch_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ipc_client/ipc_client.iml" filepath="$PROJECT_DIR$/ipc_client/ipc_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ipc_client_cp/ipc_client_cp.iml" filepath="$PROJECT_DIR$/ipc_client_cp/ipc_client_cp.iml" />
