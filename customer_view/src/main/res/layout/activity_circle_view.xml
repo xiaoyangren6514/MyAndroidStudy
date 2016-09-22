@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.happy.xyr.activity.CircleViewActivity">
+
+    <com.happy.xyr.view.TestMeasureView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_dark"/>
+
+    <com.happy.xyr.view.circleprogress.DountProgressView
+        android:id="@+id/dountProgressView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:dount_finish_circle_width="10dp"
+        app:dount_max="100"
+        app:dount_progress="10"
+        app:dount_bottom_text_content="loading"
+        app:dount_unfinish_circle_width="5dp"
+        />
+    <com.happy.xyr.view.circleprogress.DountProgressView
+        android:id="@+id/dountStaticProgressView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:dount_finish_circle_width="10dp"
+        app:dount_max="100"
+        app:dount_bottom_text_content="loading"
+        app:dount_unfinish_circle_width="10dp"
+        />
+
+    <com.happy.xyr.view.CreditCircle
+        android:id="@+id/credit_circle"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        />
+</LinearLayout>
